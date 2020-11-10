@@ -1,0 +1,2 @@
+# marketing-sales-prediction
+marketing sales prediction #1 project is all about to predict the target for the month of February. by using the stored data of the previous 3 month. here in this project our team performed data cleaning, data encoding, EDA(exploratory data analysis), future engineering, model development, model deployment using flask. by the end of the analysis we were able to achieve the accuracy of 93%. model used in this prediction is XGBoost regression model.
